@@ -4,4 +4,6 @@
   
 1. [Python](https://github.com/rubensjrcosta/kaggle-courses/tree/main/python)
 2. [Intro to Machine Learning](https://github.com/rubensjrcosta/kaggle-courses/tree/main/intro-to-machine-learning)
+3. [Pandas](https://github.com/rubensjrcosta/kaggle-courses/tree/main/pandas)
+
 
